@@ -5,3 +5,4 @@ numpy
 maplotlib
 ipykernel
 matplotlib
+gunicorn
